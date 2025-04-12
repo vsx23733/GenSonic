@@ -2,6 +2,8 @@
 
 This project presents a specialized auto-encoder designed to process and reconstruct 2D platformer levels but in ascii, with a focus on *Sonic the Hedgehog*. The tool facilitates the transformation of level images into structured data representations and vice versa, enabling advanced level analysis, generation, and AI-based testing.
 
+(Like and follow)
+
 ## Overview
 
 The auto-encoder operates by:
@@ -11,6 +13,8 @@ The auto-encoder operates by:
 - **Analysis**: Providing tools for comparing original and reconstructed levels to assess fidelity.
 
 This framework is adaptable to various 2D platformers, provided the necessary sprite data is available.
+
+GenSonic was made to facilite the level encoding for the SONIC-GAN, the procedural level generator tailored to Sonic The HedgeHog aiming to automate the level creation. Check it out here: [SONIC-GAN]()
 
 ## Repository Structure
 

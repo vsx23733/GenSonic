@@ -14,7 +14,7 @@ The auto-encoder operates by:
 
 This framework is adaptable to various 2D platformers, provided the necessary sprite data is available.
 
-GenSonic was made to facilite the level encoding for the SONIC-GAN, the procedural level generator tailored to Sonic The HedgeHog aiming to automate the level creation. Check it out here: [SONIC-GAN]()
+GenSonic was made to facilite the level encoding for the SONIC-GAN, the procedural level generator tailored to Sonic The HedgeHog aiming to automate the level creation. Check it out here: [SONIC-GAN](https://github.com/vsx23733/SONIC-GAN)
 
 ## Repository Structure
 

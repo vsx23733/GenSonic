@@ -95,7 +95,7 @@ This program was created with [Florian HOUNKPATIN](https://github.com/Kingflow-2
 Any bug ? Issue ? Idea for improvement ? Feel free to create and issue, submit a pull request or simply contact me via email or linkedIn
 
 
-## LISCENCE
+## LICENCE & COPYRIGHT
 
 This project is under the MIT Liscence (check the liscence file)
 Sega is the only owner of all sprites and assets used in this project. 

@@ -583,8 +583,8 @@ def main():
     auto_encoder(
             commercial_level_path=r"C:\Users\axelo\Documents\COURS PGE 3\AI CLINIC\S1\level-auto-encoder\Sonic1_MD_Map_Ghz1.png", # Path to the level to encode
             sprite_pool_path=r"C:\Users\axelo\Documents\COURS PGE 3\AI CLINIC\S1\level-auto-encoder\sprite_pool_level_1", #  Path to the sprite database
-            mapper_image_to_name_path=r"C:\Users\axelo\Documents\COURS PGE 3\AI CLINIC\S1\level-auto-encoder\sprites_data\level_1.json", # Path to 
-            mapper_name_to_ascii_path=r"C:\Users\axelo\Documents\COURS PGE 3\AI CLINIC\S1\level-auto-encoder\sprites_token\lvl_1_token_mapping.json",
+            mapper_image_to_name_path=r"C:\Users\axelo\Documents\COURS PGE 3\AI CLINIC\S1\level-auto-encoder\sprites_data\level_1.json", # Path to the mapper image to name
+            mapper_name_to_ascii_path=r"C:\Users\axelo\Documents\COURS PGE 3\AI CLINIC\S1\level-auto-encoder\sprites_token\lvl_1_token_mapping.json", # Path to the mapper name to ascii
             model=model
         )
     print("Encoding finished !!")
